@@ -182,13 +182,15 @@ form input{
 }
 .Para{
     position: relative;
+    text-align: center;
     top: 10%;
     left: 10%;
-    width: 80%;
+ 
+    width:400px;
     height: 250px;
     grid-row: 1/2;
     grid-column: 1/2;
-    text-align: center;
+   
 
 }
 .Para h1{
@@ -212,6 +214,8 @@ form {
     left: 15%;
 }
 
-
+.topnav{
+    width: 400px;
+}
 
 }
